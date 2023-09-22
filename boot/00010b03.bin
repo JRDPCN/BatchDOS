@@ -1,0 +1,6 @@
+kernel ("
+win7x64 -- all
+win7x86 -- all
+win10x64 -- all
+win11x64 -- all
+")
